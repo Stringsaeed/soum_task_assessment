@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.tamagui
+.expo
+.git
+graphql-env.d.ts
+src/__generated__
+pnpm-lock.yaml
+schema.graphql
+.tamagui
