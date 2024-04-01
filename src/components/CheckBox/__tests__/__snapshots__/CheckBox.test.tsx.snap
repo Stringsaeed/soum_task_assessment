@@ -1,0 +1,260 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckBox should handle checked status 1`] = `
+<View
+  animatedStyle={
+    {
+      "value": {},
+    }
+  }
+  collapsable={false}
+  layout={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "alignSelf": "flex-start",
+      "aspectRatio": 1,
+      "backgroundColor": "black",
+      "borderColor": "black",
+      "borderRadius": 8,
+      "borderWidth": 2,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "width": 20,
+    }
+  }
+  testID="CheckBox-checked"
+>
+  <View
+    animatedStyle={
+      {
+        "value": {},
+      }
+    }
+    collapsable={false}
+    entering={[Function]}
+    exiting={[Function]}
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      stroke="white"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={2}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth="2"
+      >
+        <RNSVGPath
+          d="M20 6 9 17l-5-5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`CheckBox should handle indeterminate status 1`] = `
+<View
+  animatedStyle={
+    {
+      "value": {},
+    }
+  }
+  collapsable={false}
+  layout={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "alignSelf": "flex-start",
+      "aspectRatio": 1,
+      "backgroundColor": "black",
+      "borderColor": "black",
+      "borderRadius": 8,
+      "borderWidth": 2,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "width": 20,
+    }
+  }
+  testID="CheckBox-indeterminate"
+>
+  <View
+    animatedStyle={
+      {
+        "value": {},
+      }
+    }
+    collapsable={false}
+    entering={[Function]}
+    exiting={[Function]}
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="16"
+      bbWidth="16"
+      fill="none"
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      stroke="white"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={2}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <RNSVGGroup
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth="2"
+      >
+        <RNSVGPath
+          d="M5 12h14"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth="2"
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`CheckBox should render 1`] = `
+<View
+  animatedStyle={
+    {
+      "value": {},
+    }
+  }
+  collapsable={false}
+  layout={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "alignSelf": "flex-start",
+      "aspectRatio": 1,
+      "backgroundColor": "white",
+      "borderColor": "black",
+      "borderRadius": 8,
+      "borderWidth": 2,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "width": 20,
+    }
+  }
+  testID="CheckBox-unchecked"
+/>
+`;

@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box should render with custom props 1`] = `
+<View
+  animatedStyle={
+    {
+      "value": {},
+    }
+  }
+  collapsable={false}
+  style={
+    {
+      "alignItems": "center",
+      "alignSelf": "flex-start",
+      "aspectRatio": 1,
+      "backgroundColor": "blue",
+      "borderRadius": 8,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "width": 24,
+    }
+  }
+  testID="box"
+>
+  <RNSVGSvgView
+    align="xMidYMid"
+    bbHeight="19"
+    bbWidth="19"
+    fill="none"
+    focusable={false}
+    height={19}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    stroke="white"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    strokeWidth={2}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 19,
+          "width": 19,
+        },
+      ]
+    }
+    testID="check-icon"
+    vbHeight={24}
+    vbWidth={24}
+    width={19}
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <RNSVGGroup
+      fill={null}
+      propList={
+        [
+          "fill",
+          "stroke",
+          "strokeWidth",
+          "strokeLinecap",
+          "strokeLinejoin",
+        ]
+      }
+      stroke={
+        {
+          "payload": 4294967295,
+          "type": 0,
+        }
+      }
+      strokeLinecap={1}
+      strokeLinejoin={1}
+      strokeWidth="2"
+    >
+      <RNSVGPath
+        d="M20 6 9 17l-5-5"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth="2"
+        testID="check-icon"
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
