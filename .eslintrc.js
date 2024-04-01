@@ -16,6 +16,7 @@ module.exports = {
     'unused-imports/no-unused-imports': 'error',
     'react/react-in-jsx-scope': 'off',
     'no-shadow': 'off',
+    'react-native/no-unused-styles': 'error',
   },
   ignorePatterns: ['node_modules', '.vscode', '.expo', '.git', '*.config.js'],
 };
