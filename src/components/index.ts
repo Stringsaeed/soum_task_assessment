@@ -7,3 +7,5 @@ export { default as CheckBox } from './CheckBox';
 // Molecules
 export { default as TreeView } from './TreeView';
 
+// Organisms
+export { default as SelectedValuesPreview } from './SelectedValuesPreview';
